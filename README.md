@@ -1,3 +1,5 @@
+https://planner-eight-smoky.vercel.app/
+
 # Wall-Schedule
 
 Wall-Schedule is a desktop execution system focusing on daily clarity. It acts as an interactive wallpaper, allowing you to define long-term roadmaps using AI, break them into daily tasks, and execute them in a distraction-free interface.
